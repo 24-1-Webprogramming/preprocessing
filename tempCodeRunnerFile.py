@@ -1,2 +1,0 @@
-
-            if exercise_details:
